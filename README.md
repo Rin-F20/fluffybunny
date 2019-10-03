@@ -12,3 +12,5 @@
 	<li>they're rodents</li>
 	<li>they squeak</li>
 	<li>they're disgusting</li>
+
+### good fluffy bunny names are Charlotte, Franz, Ayn, Mary, Emily, Charles, William, and Leo
