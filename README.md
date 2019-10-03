@@ -6,3 +6,9 @@
 	<li>i love them</li>
 	<li>they love me</li>
 	<li>they will eat my vegetables</li>
+
+## why my mom hates them:
+<ul>
+	<li>they're rodents</li>
+	<li>they squeak</li>
+	<li>they're disgusting</li>
