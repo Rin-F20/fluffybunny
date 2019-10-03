@@ -14,3 +14,7 @@
 	<li>they're disgusting</li>
 
 #### good fluffy bunny names are Charlotte Bronte, Franz Kafka, Ayn Rand, Mary Shelley, Emily Dickinson, Charles Dickinson, William Shakespeare, and Leo Tolstoy
+
+## i loved "Atlas Shrugged" by Ayn Rand
+## i started to read "The Trial" by Franz Kafka
+## bladen tried to read "Anna Karenina", but couldn't.
